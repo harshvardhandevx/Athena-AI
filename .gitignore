@@ -1,0 +1,12 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+config.js
+
+# OS/editor noise
+.DS_Store
+.vscode/
+
+# Optional package artifacts
+node_modules/
